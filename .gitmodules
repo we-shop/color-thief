@@ -1,0 +1,3 @@
+[submodule "color-thief-java"]
+	path = color-thief-java
+	url = git@github.com:SvenWoltmann/color-thief-java.git
